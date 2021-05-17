@@ -1,11 +1,11 @@
 import './App.css';
-import Header from './components/Header'
+import Description from './components/Description'
 import AllRgbImage from './components/AllRgbImage';
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Description />
       <AllRgbImage />
     </div>
   );

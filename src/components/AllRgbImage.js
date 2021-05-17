@@ -8,8 +8,8 @@ const AllRgbImage = ()=>{
         renderAllRgbImg()
     },[])
 
-    return(
-            <canvas id="all_color_img" className='canvas'></canvas>
+    return (
+        <canvas id="all_color_img"></canvas>
     )
 }
 
