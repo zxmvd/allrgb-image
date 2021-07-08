@@ -1,5 +1,4 @@
 # Image with all colors
-EHG Coding Challenge
 
 A program produces an image in which each colour occurs exactly once -- with 32,768 discrete colours formed by combining a red, green, and blue component breaked into 32 steps. 
 
